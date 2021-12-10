@@ -17,6 +17,12 @@
 
 - 📄 Know about my experiences from [My Resume](https://www.dropbox.com/s/0hm4h22yax9io4r/sharmila_polamuri_recent.pdf?dl=0).
 
+<h2 align="left">💡 My Skill Certificates</h2>
+- [Machine Learning Skill Assessment Badge](https://www.linkedin.com/in/sharmila-polamuri-432997125/skills/report/Machine%20Learning?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9Lc2SC07S82lRjhszKmgvA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-view_activity_details) From Linkedin
+- [Python Skill Certification](https://www.dropbox.com/s/bklg87dlcc11etn/techgig_python.pdf?dl=0) From Techgig with Rank 89 of 92,704.
+- [Problem Solving (Basic) Certificate In Python](https://www.hackerrank.com/certificates/ee2ecc25b024) From Hackerrank
+- [Python (Basic) Certificate](https://www.hackerrank.com/certificates/f78147243b6c)  From Hackerrank
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sharmilapolamu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharmilapolamu2" height="30" width="40" /></a>
